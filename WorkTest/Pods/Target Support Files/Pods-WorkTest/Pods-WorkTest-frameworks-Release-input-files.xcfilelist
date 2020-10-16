@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-WorkTest/Pods-WorkTest-frameworks.sh
+${BUILT_PRODUCTS_DIR}/PowerMode/PowerMode.framework
+${BUILT_PRODUCTS_DIR}/SnapKit/SnapKit.framework
+${BUILT_PRODUCTS_DIR}/Toast-Swift/Toast_Swift.framework
